@@ -1,2 +1,3 @@
-### NellyStore  ( Administration and Inventory)
+### NellyStore  ( Administration and Inventory) 👋
+
 
